@@ -1,11 +1,11 @@
 {
-  "name": "fatproj4",
-  "license": "UNLICENSED",
-  "version": "0.0.0",
+  "name": "fatproj",
+  "license": "MIT",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/connormanning/fatproj4.git"
+    "url": "git://github.com/connormanning/fatproj.git"
   },
   "scripts": {
     "build": "ncc build src/index.ts -o lib/ -m",
