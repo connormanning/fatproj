@@ -13,11 +13,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@types/proj4": "^2.5.0",
     "proj4": "^2.6.2"
   },
   "devDependencies": {
     "@types/jest": "^26.0.14",
-    "@types/proj4": "^2.5.0",
     "@vercel/ncc": "^0.24.1",
     "husky": "^4.3.0",
     "jest": "^26.5.2",
